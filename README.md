@@ -238,13 +238,6 @@ WHERE condicion
 
 ---
 
-## 🆘 Ayuda y Recursos
-
-### 🔧 **Debugging**
-- Usar `var_dump($_SESSION)` para verificar sesiones
-- Verificar errores PHP en logs del servidor
-- Usar Developer Tools del navegador para AJAX
-
 ### 📖 **Documentación**
 - [PHP Sessions](https://www.php.net/manual/en/book.session.php)
 - [MySQL INNER JOIN](https://dev.mysql.com/doc/refman/8.0/en/join.html)
