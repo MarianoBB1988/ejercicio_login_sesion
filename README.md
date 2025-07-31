@@ -251,4 +251,4 @@ WHERE condicion
 
 ---
 
-*Desarrollado para la clase de Programación Web - Sistema de Autenticación y Gestión de Datos*
+*Desarrollado para la clase de Programación Fulls Stack, IAE Colonia del Sacramento - Profe Mariano Bastarreix*
